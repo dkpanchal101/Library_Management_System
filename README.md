@@ -46,7 +46,6 @@ Bash
 
     cd server
     npm install
-    Create a .env file and add your MONGO_URI and JWT_SECRET
     node server.js
 
 Frontend Setup:
