@@ -47,14 +47,14 @@ Bash
 cd server
 npm install
 # Create a .env file and add your MONGO_URI and JWT_SECRET
-npm start
+node server.js
 
 Frontend Setup:
 Bash
 
     cd ../client
     npm install
-    npm start
+    npm run dev
 
 🧪 API Testing
 
