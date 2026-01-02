@@ -1,6 +1,3 @@
-To make your submission stand out, a perfect README should explain exactly what the project is, how to set it up, and how to test the APIs.
-
-Create a file named README.md in your root folder and paste this content:
 Library Management System (MERN)
 
 A full-stack Library Management System built as part of a technical task. The system allows users to register, login, and manage books, including issuing and returning books with real-time stock updates.
